@@ -13,13 +13,13 @@ export default function FcpnPage() {
       <br />
       <button><Link href="./fcpn/addressFacu">Dirección Facultad</Link></button>
       <br />
-      <button><Link href="#">Dirección Pre-facultativo</Link></button>
+      <button><Link href="./fcpn/addressPreFacu">Dirección Pre-facultativo</Link></button>
       <br />
-      <button><Link href="#">Tics</Link></button>
+      <button><Link href="./fcpn/tics">Tics</Link></button>
       <br />
-      <button><Link href="#">Comedor</Link></button>
+      <button><Link href="./fcpn/shopFood">Comedor</Link></button>
       <br />
-      <button><Link href="#">Tutorial explicativo</Link></button>
+      <button><Link href="./fcpn/tutorial">Tutorial explicativo</Link></button>
       <br /> 
     </div>
   )
